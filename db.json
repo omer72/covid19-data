@@ -1,23 +1,38 @@
 {
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ],
+
   "Alameda" :{
     "records": [
       {
         "Most Recent Date": "2021-08-14",
         "COVID-19 Positive Patients": 95,
         "Total Count Confirmed": 195,
-        "Total Count Deaths": 300
+        "Deaths": 300
       },
       {
         "Most Recent Date": "2021-08-15",
         "COVID-19 Positive Patients": 98,
         "Total Count Confirmed": 198,
-        "Total Count Deaths": 300
+        "Deaths": 300
       },
       {
         "Most Recent Date": "2021-08-16",
         "COVID-19 Positive Patients": 100,
         "Total Count Confirmed": 200,
-        "Total Count Deaths": 300
+        "Deaths": 300
       }]
   },
   "Alpine" :[],
@@ -25,9 +40,9 @@
   "Butte" :[],
   "Calaveras" :[],
   "Colusa" :[],
-  "Contra Costa" :[],
-  "Del Norte" :[],
-  "El Dorado" :[],
+  "Contra_Costa" :[],
+  "Del_Norte" :[],
+  "El_Dorado" :[],
   "Fresno" :[],
   "Glenn" :[],
   "Humboldt" :[],
@@ -53,16 +68,75 @@
   "Plumas" :[],
   "Riverside" :[],
   "Sacramento" :[],
-  "San Benito" :[],
-  "San Bernardino" :[],
-  "San Diego" :[],
-  "San Francisco" :[],
-  "San Joaquin" :[],
-  "San Luis Obispo" :[],
-  "San Mateo" :[],
-  "Santa Barbara" :[],
-  "Santa Clara" :[],
-  "Santa Cruz" :[],
+  "San_Benito" :[],
+  "San_Bernardino" :[],
+  "San_Diego" :[],
+  "San_Francisco" :[],
+  "San_Joaquin" :[],
+  "San_Luis_Obispo" :[],
+  "San_Mateo" :[],
+  "Santa_Barbara" :[],
+  "Santa_Clara" :
+    {
+      "records": [
+        {
+          "Most Recent Date": "2021-08-14",
+          "COVID-19 Positive Patients": 282,
+          "Total Count Confirmed": 282,
+          "Deaths": 5
+        },
+        {
+          "Most Recent Date": "2021-08-15",
+          "COVID-19 Positive Patients": 313,
+          "Total Count Confirmed": 313,
+          "Deaths": 3
+        },
+        {
+          "Most Recent Date": "2021-08-16",
+          "COVID-19 Positive Patients": 344,
+          "Total Count Confirmed": 344,
+          "Deaths": 1
+        },
+        {
+          "Most Recent Date": "2021-08-17",
+          "COVID-19 Positive Patients": 474,
+          "Total Count Confirmed": 474,
+          "Deaths": 1
+        },
+        {
+          "Most Recent Date": "2021-08-18",
+          "COVID-19 Positive Patients": 283,
+          "Total Count Confirmed": 283,
+          "Deaths": 1
+        },
+        {
+          "Most Recent Date": "2021-08-19",
+          "COVID-19 Positive Patients": 263,
+          "Total Count Confirmed": 263,
+          "Deaths": 1
+        },
+        {
+          "Most Recent Date": "2021-08-20",
+          "COVID-19 Positive Patients": 376,
+          "Total Count Confirmed": 376,
+          "Deaths": 1
+        },
+        {
+          "Most Recent Date": "2021-08-21",
+          "COVID-19 Positive Patients": 351,
+          "Total Count Confirmed": 351,
+          "Deaths": 1
+        },
+        {
+          "Most Recent Date": "2021-08-22",
+          "COVID-19 Positive Patients": 506,
+          "Total Count Confirmed": 506,
+          "Deaths": 1
+        }
+      ]
+    }
+  ,
+  "Santa_Cruz" :[],
   "Shasta" :[],
   "Sierra" :[],
   "Siskiyou" :[],
