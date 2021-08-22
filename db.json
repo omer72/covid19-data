@@ -1,6 +1,239 @@
 {
-  
-  "Alameda" :{
+  "counties": [
+    {
+      "label": "Alameda",
+      "value": "Alameda"
+    },
+    {
+      "label": "Alpine",
+      "value": "Alpine"
+    },
+    {
+      "label": "Amador",
+      "value": "Amador"
+    },
+    {
+      "label": "Butte",
+      "value": "Butte"
+    },
+    {
+      "label": "Calaveras",
+      "value": "Calaveras"
+    },
+    {
+      "label": "Colusa",
+      "value": "Colusa"
+    },
+    {
+      "label": "Contra Costa",
+      "value": "Contra_Costa"
+    },
+    {
+      "label": "Del Norte",
+      "value": "Del_Norte"
+    },
+    {
+      "label": "El Dorado",
+      "value": "El_Dorado"
+    },
+    {
+      "label": "Fresno",
+      "value": "Fresno"
+    },
+    {
+      "label": "Glenn",
+      "value": "Glenn"
+    },
+    {
+      "label": "Humboldt",
+      "value": "Humboldt"
+    },
+    {
+      "label": "Imperial",
+      "value": "Imperial"
+    },
+    {
+      "label": "Inyo",
+      "value": "Inyo"
+    },
+    {
+      "label": "Kern",
+      "value": "Kern"
+    },
+    {
+      "label": "Kings",
+      "value": "Kings"
+    },
+    {
+      "label": "Lake",
+      "value": "Lake"
+    },
+    {
+      "label": "Lassen",
+      "value": "Lassen"
+    },
+    {
+      "label": "Los Angeles",
+      "value": "Los_Angeles"
+    },
+    {
+      "label": "Madera",
+      "value": "Madera"
+    },
+    {
+      "label": "Marin",
+      "value": "Marin"
+    },
+    {
+      "label": "Mariposa",
+      "value": "Mariposa"
+    },
+    {
+      "label": "Mendocino",
+      "value": "Mendocino"
+    },
+    {
+      "label": "Merced",
+      "value": "Merced"
+    },
+    {
+      "label": "Modoc",
+      "value": "Modoc"
+    },
+    {
+      "label": "Mono",
+      "value": "Mono"
+    },
+    {
+      "label": "Monterey",
+      "value": "Monterey"
+    },
+    {
+      "label": "Napa",
+      "value": "Napa"
+    },
+    {
+      "label": "Nevada",
+      "value": "Nevada"
+    },
+    {
+      "label": "Orange",
+      "value": "Orange"
+    },
+    {
+      "label": "Placer",
+      "value": "Placer"
+    },
+    {
+      "label": "Plumas",
+      "value": "Plumas"
+    },
+    {
+      "label": "Riverside",
+      "value": "Riverside"
+    },
+    {
+      "label": "Sacramento",
+      "value": "Sacramento"
+    },
+    {
+      "label": "San Benito",
+      "value": "San_Benito"
+    },
+    {
+      "label": "San Bernardino",
+      "value": "San_Bernardino"
+    },
+    {
+      "label": "San Diego",
+      "value": "San_Diego"
+    },
+    {
+      "label": "San Francisco",
+      "value": "San_Francisco"
+    },
+    {
+      "label": "San Joaquin",
+      "value": "San_Joaquin"
+    },
+    {
+      "label": "San Luis Obispo",
+      "value": "San_Luis_Obispo"
+    },
+    {
+      "label": "San Mateo",
+      "value": "San_Mateo"
+    },
+    {
+      "label": "Santa Barbara",
+      "value": "Santa_Barbara"
+    },
+    {
+      "label": "Santa Clara",
+      "value": "Santa_Clara"
+    },
+    {
+      "label": "Santa Cruz",
+      "value": "Santa_Cruz"
+    },
+    {
+      "label": "Shasta",
+      "value": "Shasta"
+    },
+    {
+      "label": "Sierra",
+      "value": "Sierra"
+    },
+    {
+      "label": "Siskiyou",
+      "value": "Siskiyou"
+    },
+    {
+      "label": "Solano",
+      "value": "Solano"
+    },
+    {
+      "label": "Sonoma",
+      "value": "Sonoma"
+    },
+    {
+      "label": "Stanislaus",
+      "value": "Stanislaus"
+    },
+    {
+      "label": "Sutter",
+      "value": "Sutter"
+    },
+    {
+      "label": "Tehama",
+      "value": "Tehama"
+    },
+    {
+      "label": "Trinity",
+      "value": "Trinity"
+    },
+    {
+      "label": "Tulare",
+      "value": "Tulare"
+    },
+    {
+      "label": "Tuolumne",
+      "value": "Tuolumne"
+    },
+    {
+      "label": "Ventura",
+      "value": "Ventura"
+    },
+    {
+      "label": "Yolo",
+      "value": "Yolo"
+    },
+    {
+      "label": "Yuba",
+      "value": "Yuba"
+    }
+  ],
+  "Alameda": {
     "records": [
       {
         "Most Recent Date": "2021-08-14",
@@ -19,122 +252,121 @@
         "COVID-19 Positive Patients": 100,
         "Total Count Confirmed": 200,
         "Deaths": 300
-      }]
+      }
+    ]
   },
-  "Alpine" :[],
-  "Amador" :[],
-  "Butte" :[],
-  "Calaveras" :[],
-  "Colusa" :[],
-  "Contra_Costa" :[],
-  "Del_Norte" :[],
-  "El_Dorado" :[],
-  "Fresno" :[],
-  "Glenn" :[],
-  "Humboldt" :[],
-  "Imperial" :[],
-  "Inyo" :[],
-  "Kern" :[],
-  "Kings" :[],
-  "Lake" :[],
-  "Lassen" :[],
-  "Los Angeles" :[],
-  "Madera" :[],
-  "Marin" :[],
-  "Mariposa" :[],
-  "Mendocino" :[],
-  "Merced" :[],
-  "Modoc" :[],
-  "Mono" :[],
-  "Monterey" :[],
-  "Napa" :[],
-  "Nevada" :[],
-  "Orange" :[],
-  "Placer" :[],
-  "Plumas" :[],
-  "Riverside" :[],
-  "Sacramento" :[],
-  "San_Benito" :[],
-  "San_Bernardino" :[],
-  "San_Diego" :[],
-  "San_Francisco" :[],
-  "San_Joaquin" :[],
-  "San_Luis_Obispo" :[],
-  "San_Mateo" :[],
-  "Santa_Barbara" :[],
-  "Santa_Clara" :
-    {
-      "records": [
-        {
-          "Most Recent Date": "2021-08-14",
-          "COVID-19 Positive Patients": 282,
-          "Total Count Confirmed": 282,
-          "Deaths": 5
-        },
-        {
-          "Most Recent Date": "2021-08-15",
-          "COVID-19 Positive Patients": 313,
-          "Total Count Confirmed": 313,
-          "Deaths": 3
-        },
-        {
-          "Most Recent Date": "2021-08-16",
-          "COVID-19 Positive Patients": 344,
-          "Total Count Confirmed": 344,
-          "Deaths": 1
-        },
-        {
-          "Most Recent Date": "2021-08-17",
-          "COVID-19 Positive Patients": 474,
-          "Total Count Confirmed": 474,
-          "Deaths": 1
-        },
-        {
-          "Most Recent Date": "2021-08-18",
-          "COVID-19 Positive Patients": 283,
-          "Total Count Confirmed": 283,
-          "Deaths": 1
-        },
-        {
-          "Most Recent Date": "2021-08-19",
-          "COVID-19 Positive Patients": 263,
-          "Total Count Confirmed": 263,
-          "Deaths": 1
-        },
-        {
-          "Most Recent Date": "2021-08-20",
-          "COVID-19 Positive Patients": 376,
-          "Total Count Confirmed": 376,
-          "Deaths": 1
-        },
-        {
-          "Most Recent Date": "2021-08-21",
-          "COVID-19 Positive Patients": 351,
-          "Total Count Confirmed": 351,
-          "Deaths": 1
-        },
-        {
-          "Most Recent Date": "2021-08-22",
-          "COVID-19 Positive Patients": 506,
-          "Total Count Confirmed": 506,
-          "Deaths": 1
-        }
-      ]
-    }
-  ,
-  "Santa_Cruz" :[],
-  "Shasta" :[],
-  "Sierra" :[],
-  "Siskiyou" :[],
-  "Solano" :[],
-  "Sonoma" :[],
-  "Stanislaus" :[],
-  "Sutter" :[],
-  "Tehama" :[],
-  "Trinity" :[],
-  "Tulare" :[],
-  "Tuolumne" :[],
-  "Ventura" :[],
-  "Yolo" :[],
-  "Yuba" :[]
+  "Alpine": [],
+  "Amador": [],
+  "Butte": [],
+  "Calaveras": [],
+  "Colusa": [],
+  "Contra_Costa": [],
+  "Del_Norte": [],
+  "El_Dorado": [],
+  "Fresno": [],
+  "Glenn": [],
+  "Humboldt": [],
+  "Imperial": [],
+  "Inyo": [],
+  "Kern": [],
+  "Kings": [],
+  "Lake": [],
+  "Lassen": [],
+  "Los Angeles": [],
+  "Madera": [],
+  "Marin": [],
+  "Mariposa": [],
+  "Mendocino": [],
+  "Merced": [],
+  "Modoc": [],
+  "Mono": [],
+  "Monterey": [],
+  "Napa": [],
+  "Nevada": [],
+  "Orange": [],
+  "Placer": [],
+  "Plumas": [],
+  "Riverside": [],
+  "Sacramento": [],
+  "San_Benito": [],
+  "San_Bernardino": [],
+  "San_Diego": [],
+  "San_Francisco": [],
+  "San_Joaquin": [],
+  "San_Luis_Obispo": [],
+  "San_Mateo": [],
+  "Santa_Barbara": [],
+  "Santa_Clara": {
+    "records": [
+      {
+        "Most Recent Date": "2021-08-14",
+        "COVID-19 Positive Patients": 282,
+        "Total Count Confirmed": 282,
+        "Deaths": 5
+      },
+      {
+        "Most Recent Date": "2021-08-15",
+        "COVID-19 Positive Patients": 313,
+        "Total Count Confirmed": 313,
+        "Deaths": 3
+      },
+      {
+        "Most Recent Date": "2021-08-16",
+        "COVID-19 Positive Patients": 344,
+        "Total Count Confirmed": 344,
+        "Deaths": 1
+      },
+      {
+        "Most Recent Date": "2021-08-17",
+        "COVID-19 Positive Patients": 474,
+        "Total Count Confirmed": 474,
+        "Deaths": 1
+      },
+      {
+        "Most Recent Date": "2021-08-18",
+        "COVID-19 Positive Patients": 283,
+        "Total Count Confirmed": 283,
+        "Deaths": 1
+      },
+      {
+        "Most Recent Date": "2021-08-19",
+        "COVID-19 Positive Patients": 263,
+        "Total Count Confirmed": 263,
+        "Deaths": 1
+      },
+      {
+        "Most Recent Date": "2021-08-20",
+        "COVID-19 Positive Patients": 376,
+        "Total Count Confirmed": 376,
+        "Deaths": 1
+      },
+      {
+        "Most Recent Date": "2021-08-21",
+        "COVID-19 Positive Patients": 351,
+        "Total Count Confirmed": 351,
+        "Deaths": 1
+      },
+      {
+        "Most Recent Date": "2021-08-22",
+        "COVID-19 Positive Patients": 506,
+        "Total Count Confirmed": 506,
+        "Deaths": 1
+      }
+    ]
+  },
+  "Santa_Cruz": [],
+  "Shasta": [],
+  "Sierra": [],
+  "Siskiyou": [],
+  "Solano": [],
+  "Sonoma": [],
+  "Stanislaus": [],
+  "Sutter": [],
+  "Tehama": [],
+  "Trinity": [],
+  "Tulare": [],
+  "Tuolumne": [],
+  "Ventura": [],
+  "Yolo": [],
+  "Yuba": []
 }
